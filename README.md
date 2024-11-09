@@ -11,7 +11,7 @@ It completely works on RBAC (Role Based Access Control). There are cool dashboar
 Jackhammer uses the OWASP pipeline project to run multiple open source and commercial tools against your code,web app, mobile app, cms (wordpress), network.
 
 
-## Key Features:
+## Key Features: 
 
 * Provides unified interface to collaborate on findings
 * Scanning (code) can be done for all code management repositories
